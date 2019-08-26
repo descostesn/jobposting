@@ -21,6 +21,8 @@
   
   + genomeweb: https://www.genomeweb.com/resources/jobs
   
+  + French society of Bioinformatics: https://www.sfbi.fr/content/comment-d%C3%A9poser-une-offre-demploi
+  
   
 ## Linkedin groups
 
