@@ -55,3 +55,10 @@
   + Master Bioinformatique Nantes: https://sciences-techniques.univ-nantes.fr/formations/masters/fiches-formations-master/master-bio-informatique-2029398.kjsp
   + Master in bioinformatics and modeling Sorbonne: http://www.lcqb.upmc.fr/BIM/
   + Master bioinformatique Montpellier: https://sns.edu.umontpellier.fr/en/master-sciences-et-numerique-pour-la-sante-montpellier/
+
+## Companies:
+
+  + Pfizer: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers?q=bioinformatics
+  + Novartis: https://www.novartis.com/careers/career-search?search_api_fulltext=bioinformatics&early_talent=All&items_per_page=10&field_job_posted_date=All&page=1
+  + Illumina: https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers?q=bioinformatics
+  
