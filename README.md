@@ -23,6 +23,7 @@
   
   + French society of Bioinformatics: https://www.sfbi.fr/content/comment-d%C3%A9poser-une-offre-demploi
   
+  + jobrxiv: https://jobrxiv.org/job-category/bioinfo/
   
 ## Linkedin groups
 
